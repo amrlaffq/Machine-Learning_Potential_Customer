@@ -30,7 +30,7 @@ Design a predictive model to determine the potential customers for the next prod
   ➡️ Seperate X(features) and y(target) \
     ✨ y(target) = "Potential_Customer" ✨ \
   ➡️ Change categorical variables with numerical variables (One-hot encoding or Dummy encoding) \
-  refer here : https://towardsdatascience.com/encoding-categorical-variables-one-hot-vs-dummy-encoding-6d5b9c46e2db\
+  refer here : https://towardsdatascience.com/encoding-categorical-variables-one-hot-vs-dummy-encoding-6d5b9c46e2db \
     ✨ Can also try to look into the Label Encoding (not being used in the notebook) ✨\
   refer here : https://www.naukri.com/learning/articles/one-hot-encoding-vs-label-encoding/ \
   ➡️ Split data into train/test \
@@ -42,7 +42,7 @@ Design a predictive model to determine the potential customers for the next prod
     ✨ Make used of Standard Scaler, Min Max Scaler or Power Transformer ✨\
   refer here : https://towardsdatascience.com/all-about-feature-scaling-bcc0ad75cb35 \
   ➡️ PCA on Numerical Columns only \
-    ✨ To check the highly correlated features \
+    ✨ To check the highly correlated features ✨ \
   refer here : https://towardsdatascience.com/pca-clearly-explained-how-when-why-to-use-it-and-feature-importance-a-guide-in-python-7c274582c37e \
   
 6. Machine Learning 💻 \
